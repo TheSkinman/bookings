@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"gethub.com/TheSkinman/bookings/pkg/config"
-	"gethub.com/TheSkinman/bookings/pkg/handlers"
-	"gethub.com/TheSkinman/bookings/pkg/render"
+	"gethub.com/TheSkinman/bookings/internal/config"
+	"gethub.com/TheSkinman/bookings/internal/handlers"
+	"gethub.com/TheSkinman/bookings/internal/render"
 	"github.com/alexedwards/scs/v2"
 )
 
