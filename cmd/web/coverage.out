@@ -1,0 +1,11 @@
+mode: set
+gethub.com/TheSkinman/bookings/cmd/web/main.go:23.13,26.16 2 0
+gethub.com/TheSkinman/bookings/cmd/web/main.go:26.16,28.3 1 0
+gethub.com/TheSkinman/bookings/cmd/web/main.go:30.2,36.16 3 0
+gethub.com/TheSkinman/bookings/cmd/web/main.go:36.16,38.3 1 0
+gethub.com/TheSkinman/bookings/cmd/web/main.go:41.18,57.16 10 1
+gethub.com/TheSkinman/bookings/cmd/web/main.go:57.16,60.3 2 0
+gethub.com/TheSkinman/bookings/cmd/web/main.go:62.2,71.12 7 1
+gethub.com/TheSkinman/bookings/cmd/web/middleware.go:10.45,21.2 3 1
+gethub.com/TheSkinman/bookings/cmd/web/middleware.go:24.50,26.2 1 1
+gethub.com/TheSkinman/bookings/cmd/web/routes.go:12.49,38.2 18 1

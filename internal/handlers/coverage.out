@@ -1,0 +1,22 @@
+mode: set
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:24.47,28.2 1 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:31.33,33.2 1 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:36.67,42.2 4 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:45.68,57.2 5 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:60.70,62.2 1 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:65.74,74.2 4 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:77.78,79.16 2 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:79.16,82.3 2 0
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:84.2,97.19 6 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:97.19,106.3 4 0
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:108.2,110.66 2 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:114.71,116.2 1 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:119.69,121.2 1 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:124.75,126.2 1 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:129.79,134.2 3 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:142.79,149.16 3 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:149.16,151.3 1 0
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:153.2,154.14 2 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:157.81,159.9 2 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:159.9,164.3 4 1
+gethub.com/TheSkinman/bookings/internal/handlers/handlers.go:166.2,173.4 4 0

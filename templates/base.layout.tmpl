@@ -9,7 +9,7 @@
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
 
-    <title>Reservations</title>
+    <title>Booking App</title>
 
     <link
       rel="stylesheet"
@@ -33,11 +33,21 @@
     <link rel="stylesheet" type="text/css" href="/static/css/style.css" />
 
     <style>
-      p {
+      .btn-outline-secondary {
+        color: aqua;
+        border-color: #6c757d;
+      }
+
+      .paraClass {
+        font-size: 3em;
+      }
+
+      .secondClass {
         color: red;
       }
-      p {
-        color: green;
+
+      #lastPara {
+        text-decoration: underline;
       }
     </style>
   </head>
@@ -263,6 +273,26 @@
         };
       }
     </script>
+
+    {{ with.Error }}
+    <script>
+      notify('{{.}}', 'error');
+    </script>
+    {{ end }}
+
+    {{ with.Flash }}
+    <script>
+      notify('{{.}}', 'success');
+    </script>
+
+    {{ end }}
+
+    {{ with.Warning }}
+    <script>
+      notify('{{.}}', 'warning');
+    </script>
+
+    {{ end }}
   </body>
 </html>
 
